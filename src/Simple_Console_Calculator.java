@@ -1,6 +1,6 @@
 import java.util.Scanner;                               // Подключаем библиотеку.
 
-public class Simple_Console_Calculator {                       // Создаем основной класс программы.
+public class Simple_Console_Calculator {                // Создаем основной класс программы.
     public static void main (String[] args) {           // Создаем запускающую программу функцию.
         Scanner sc = new Scanner(System.in);            // Создаем объект считывающий ввод.
         double num1;                                    // Создаем первую числовую переменную.
